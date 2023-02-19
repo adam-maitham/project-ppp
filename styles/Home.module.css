@@ -1,3 +1,7 @@
+.pageLink {
+	color: #0099FF;
+}
+
 .main {
   display: flex;
   flex-direction: column;

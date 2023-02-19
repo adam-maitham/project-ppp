@@ -1,0 +1,33 @@
+.bigTitle {
+	font-size: 4.0rem;
+	font-family: sans-serif;
+	margin: 32px;
+}
+
+.addButton {
+	font-size: 50%;
+	color: #0099FF;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 16px;
+}
+
+.addButton:hover {
+	color: #0088EE
+}
+
+.smallLink {
+	color: #0099FF;
+	margin: 16px;
+}
+
+.smallLink:hover {
+	color: #0088EE
+}
+
+.gameCover {
+	border: 0 black;
+	border-radius: 1rem;
+	width: 256px;
+	height: 364px;
+}

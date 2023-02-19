@@ -1,0 +1,23 @@
+.gameContainer {
+	width: 256px;
+	margin: 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.gameCover {
+	border: 0 black;
+	border-radius: 1rem;
+	width: 256px;
+	height: 364px;
+}
+
+.gameTitle {
+	font-size: 1.5rem;
+	font-family: sans-serif;
+}
+
+.gameDesc {
+	font-size: 1.0rem;
+	font-family: sans-serif;
+}
